@@ -1,4 +1,7 @@
 # [tailsjoin](https://github.com/tailsjoin/tailsjoin/wiki)
+
+# THIS PROJECT IS NOT UPDATED SINCE 2016 AND THESE INSTRUCTIONS LIKELY WILL NOT WORK!!!
+
 ## Scripts to install [JoinMarket](https://github.com/chris-belcher/joinmarket), [libsodium](https://download.libsodium.org/doc/), and [Bitcoin Core](https://bitcoin.org/en/download) on the [Tails OS](https://tails.boum.org).
 
 ### Options for TAILS:
